@@ -5,7 +5,6 @@
 ## Features
 
 - Removes the in-game system that guarantees an Arachne spawn after a certain number of runs.
-- Useful for speedrun categories (e.g., "Anyfear") where players want to control encounter randomness.
 
 ## Installation
 
